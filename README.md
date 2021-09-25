@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamSyzov
 - 👀 I’m interested in test automation, algorithms, JS/TS
-- 🌱 I’m currently learning playwirght framewor
+- 🌱 I’m currently learning playwirght framework
 - 📫 How to reach me
 
 <!---
